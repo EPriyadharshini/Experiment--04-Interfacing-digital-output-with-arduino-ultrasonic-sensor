@@ -49,10 +49,6 @@ CIRCUIT OF INTERFACING ULTRASONIC SENSOR
 
 
 
-
-
-
-
 ### FIGURE 02
 
 
@@ -74,7 +70,6 @@ CIRCUIT OF INTERFACING ULTRASONIC SENSOR
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device 
 10.	Plot the graph for the output voltage vs the resistance 
-
 
 ### PROGRAM 
 ```
@@ -123,13 +118,7 @@ duration=pulseIn(echoPin,HIGH);
 }
 ```
 
-
-
 ### Distance vs measurement table 
-
-
-
-
 
 
 ![robotics](https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/def9d02a-1bab-40aa-b54d-05e0db1f8b4f)
@@ -138,7 +127,6 @@ duration=pulseIn(echoPin,HIGH);
 
 
 ![robotics 2](https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/9117a45a-84a7-40b7-b254-254ff4735274)
-
 
 
 
