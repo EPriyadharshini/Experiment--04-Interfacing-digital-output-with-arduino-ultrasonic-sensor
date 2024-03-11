@@ -56,7 +56,7 @@ CIRCUIT OF INTERFACING ULTRASONIC SENSOR
 ### FIGURE 02
 
 
-![Screenshot 2024-03-07 111946](https://github.com/Srikaavyaathamizh/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870938/9c7d62a8-b8e1-46fb-901e-304adb26c934)
+<img width="715" alt="image" src="https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/947f7e9c-544c-45bc-9e0b-8cfe5795ad11">
 
 
 
