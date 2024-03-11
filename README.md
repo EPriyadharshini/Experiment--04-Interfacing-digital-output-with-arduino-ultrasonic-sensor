@@ -127,7 +127,11 @@ duration=pulseIn(echoPin,HIGH);
 
 ### Distance vs measurement table 
 
-![Screenshot 2024-03-07 112423](https://github.com/Srikaavyaathamizh/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870938/fcfe284b-b59a-4f5e-92bb-fd7775cf2ddd)
+
+<img width="715" alt="image" src="https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/c1c376a4-4a02-4e6b-8376-c6b67fe0c096">
+
+
+
 
 ![Screenshot 2024-03-07 112432](https://github.com/Srikaavyaathamizh/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870938/24e947b8-0d9a-4156-b0cf-183d4242ac77)
 
