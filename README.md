@@ -128,15 +128,20 @@ duration=pulseIn(echoPin,HIGH);
 ### Distance vs measurement table 
 
 
-<img width="715" alt="image" src="https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/c1c376a4-4a02-4e6b-8376-c6b67fe0c096">
 
 
 
 
-![Screenshot 2024-03-07 112432](https://github.com/Srikaavyaathamizh/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870938/24e947b8-0d9a-4156-b0cf-183d4242ac77)
+![robotics](https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/def9d02a-1bab-40aa-b54d-05e0db1f8b4f)
 
 
-			
+
+
+![robotics 2](https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/9117a45a-84a7-40b7-b254-254ff4735274)
+
+
+
+
    Average error = sum/ number of readings 
    mean=(-0.5+1.1+0.7+0.7+0.9)/5=0.58
    
