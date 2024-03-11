@@ -38,18 +38,30 @@ The time between the transmission and reception of the signal allows us to calcu
 distance to an object = ((speed of sound in the air)*time)/2
 speed of sound in the air at 20ºC (68ºF) = 343m/s
 
-### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
+### FIGURE 01 
+
+CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
 
 
 ![image](https://user-images.githubusercontent.com/36288975/166430594-5adb4ca9-5a42-4781-a7e6-7236b3766a85.png)
 
+
+
+
+
+
+
+
+
 ### FIGURE 02
+
+
 ![Screenshot 2024-03-07 111946](https://github.com/Srikaavyaathamizh/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870938/9c7d62a8-b8e1-46fb-901e-304adb26c934)
 
 
-![Screenshot 2024-03-07 112100](https://github.com/Srikaavyaathamizh/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870938/b00b35d5-4260-455d-b1eb-7afe48570b92)
 
 
+<img width="619" alt="image" src="https://github.com/EPriyadharshini/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870831/ad4798f3-079c-4888-ad35-2ce06070dfa3">
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
